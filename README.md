@@ -8,8 +8,8 @@
 😊 *Pronouns:* She / Her / They / Them \
 💬 *Ask me about...* social issues, mental health, sustainability, diversity, inclusion. \
 ⚡ *Fun fact...* I draw, am a plant person, music lover, and likes photography and traveling. \
-🔭 *I’m currently working on...* a mockup e-commerce plant shop themed website and daily algorithm challenges. \
-👀 *I’m currently learning...* Vue.js, styling frameworks and libraries.
+🔭 *I’m currently working on...* daily algorithm challenges and an eggs & potatoes recipes website infused with my illustrations. \
+👀 *I’m currently learning...* more of React.js, styling frameworks, and libraries.
 
 🌈✨🌱
 ### Skills
